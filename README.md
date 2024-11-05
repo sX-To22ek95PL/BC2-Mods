@@ -16,4 +16,4 @@ Place ``***.dbx`` file in their location like it is on this repo
 Start server and enjoy!!!
 
 ### Unlock on server 
-- This mod unlock most of things on server for players (they still can progres normally)
+- [Mp_Template.dbx] This mod unlock most of things on server for players (they still can progres normally)
